@@ -1,6 +1,6 @@
 Principios de Circuitos Eléctricos
 
-Nombre: Pablo Chalco   NRC: 10067  Materia: F. de Circuitos Eléctricos   Fecha: 18/12/2022  
+Nombre: Pablo Chalco   NRC: 10067  Materia: F. de Circuitos Eléctricos   Fecha: 23/12/2022  
 
 Tema: Principios de Circuitos Eléctricos
 
