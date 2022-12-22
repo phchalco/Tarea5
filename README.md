@@ -1,4 +1,4 @@
-rincipios de Circuitos Eléctricos
+Principios de Circuitos Eléctricos
 
 Nombre: Pablo Chalco   NRC: 10067  Materia: F. de Circuitos Eléctricos   Fecha: 18/12/2022  
 
@@ -20,34 +20,28 @@ Objetivos
 
 2.-Marco Teórico:
 
-Capítulo 7 Circuitos en Serie-Paralelo.
+Capítulo 9 ANÁLISIS DE RAMAS, LAZOS Y NODOS
 
-Identificación de relaciones en serie-paralelo
+En el método de la corriente en ramas, se aplicarán las leyes de Kirchhoff para determinar la corriente en varias ramas de un circuito 
+de múltiples lazos. Un lazo es una trayectoria completa para la corriente que circula en un circuito. En el método de la corriente 
+en lazos, se determinarán las corrientes de lazo, y no las corrientes de rama. En el método del voltaje en nodos, se determinarán los 
+voltajes presentes en los nodos independientes de un circuito. Como se sabe, un nodo es la unión de dos o más componentes.
 
-El análisis de circuitos en serie-paralelo requiere el uso de la ley de Ohm, las leyes del voltaje y de la corriente de Kirchhoff, 
-y los métodos para determinar resistencia total y potencia que fueron estudiados en los últimos dos capítulos.
+Ecuaciones simultáneas en el análisis de circuitos
 
-![](https://github.com/phchalco/Tarea4/blob/main/Z1.png)
+![](https://github.com/phchalco/Tarea5/blob/main/P1.png)
 
-Análisis de circuitos resistivos en serie-paralelo
+Método de la corriente en ramas
 
-![](https://github.com/phchalco/Tarea4/blob/main/Z2.png)
+![](https://github.com/phchalco/Tarea5/blob/main/P2.png)
 
-Divisores de voltaje con cargas resistivas
+Método de la corriente en trayectorias cerradas
 
-![](https://github.com/phchalco/Tarea4/blob/main/Z3.png)
+![](https://github.com/phchalco/Tarea5/blob/main/P3.png)
 
-Efecto de carga de un voltímetro
+Método del voltaje en nodos
 
-![](https://github.com/phchalco/Tarea4/blob/main/Z4.png)
-
-Redes en escalera
-
-![](https://github.com/phchalco/Tarea4/blob/main/Z5.png)
-
-El puente Wheatstone
-
-![](https://github.com/phchalco/Tarea4/blob/main/Z6.png)
+![](https://github.com/phchalco/Tarea5/blob/main/P4.png)
 
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -61,50 +55,6 @@ El puente Wheatstone
 ![](https://github.com/phchalco/Tarea4/blob/main/X4X.png)
 
 ![](https://github.com/phchalco/Tarea4/blob/main/X5X.png)
-
-Capítulo 8
-
-Teoremas de Circuitos y Converciones
-
-Los teoremas y las conversiones presentados en este capítulo facilitan el análisis de ciertos tipos de circuitos. 
-Estos métodos no reemplazan a la ley de Ohm ni a las leyes de Kirchhoff, sino que normalmente se utilizan junto 
-con ellas en ciertas situaciones.
-
-La fuente de voltaje de cd
-
-![](https://github.com/phchalco/Tarea4/blob/main/W1.png)
-
-La fuente de corriente
-
-![](https://github.com/phchalco/Tarea4/blob/main/W2.png)
-
-Conversiones de fuente
-
-![](https://github.com/phchalco/Tarea4/blob/main/W3.png)
-
-El teorema de superposición
-
-![](https://github.com/phchalco/Tarea4/blob/main/W4.png)
-
-Teorema de Thevenin
-
-![](https://github.com/phchalco/Tarea4/blob/main/W5.png)
-
-Teorema de Norton
-
-![](https://github.com/phchalco/Tarea4/blob/main/W6.png)
-
-Teorema de transferencia de potencia máxima
-
-![](https://github.com/phchalco/Tarea4/blob/main/W7.png)
-
-Conversiones delta a Y (Δ a Y) y Y a delta (Y a Δ)
-
-![](https://github.com/phchalco/Tarea4/blob/main/W8.png)
-
-
-3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-
 
 1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.
 
@@ -193,6 +143,35 @@ b. Calcule el valor de la máxima potencia que puede ser suministrada a la carga
 
 b. Demuestre que la reciprocidad se aplica en el circuito dado.
 
+Capítulo 10
+
+MAGNETISMO Y ELECTROMAGNETISMO
+
+El campo magnético
+
+![](https://github.com/phchalco/Tarea5/blob/main/Q1.png)
+
+Electromagnetismo
+
+![](https://github.com/phchalco/Tarea5/blob/main/Q2.png)
+
+Dispositivos electromagnéticos
+
+![](https://github.com/phchalco/Tarea5/blob/main/Q3.png)
+
+Histéresis magnética
+
+![](https://github.com/phchalco/Tarea5/blob/main/Q4.png)
+
+Inducción electromagnética
+
+![](https://github.com/phchalco/Tarea5/blob/main/Q5.png)
+
+Aplicaciones de la inducción electromagnética
+
+![](https://github.com/phchalco/Tarea4/blob/main/W6.png)
+
+3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ![](https://github.com/phchalco/Tarea4/blob/main/Y1Y.png)
 
