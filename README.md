@@ -163,13 +163,9 @@ Histéresis magnética
 
 ![](https://github.com/phchalco/Tarea5/blob/main/Q4.png)
 
-Inducción electromagnética
+Inducción electromagnética y Aplicaciones de la inducción electromagnética
 
 ![](https://github.com/phchalco/Tarea5/blob/main/Q5.png)
-
-Aplicaciones de la inducción electromagnética
-
-![](https://github.com/phchalco/Tarea4/blob/main/W6.png)
 
 3.1-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
