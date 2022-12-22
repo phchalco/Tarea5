@@ -56,34 +56,39 @@ SECCIÓN 9-1 Ecuaciones simultáneas en el análisis de circuitos.
 
 4.Evalúe cada uno de los determinantes:
 
-
+![](https://github.com/phchalco/Tarea5/blob/main/PT2.png)
 
 6.Determine I3 en el ejemplo 9-4.
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT3.png)
 
+8.Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
 
-Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
+![](https://github.com/phchalco/Tarea5/blob/main/PT4.png)
 
+10.Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
 
-Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
-
+![](https://github.com/phchalco/Tarea5/blob/main/PT6.png)
 
 SECCIÓN 9–2 Método de la corriente en ramas.
 
-Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
+12.Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT6.png)
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT7.png)
 
+14.Determine la corriente a través de cada resistor mostrado en la figura 9-27.
 
-Determine la corriente a través de cada resistor mostrado en la figura 9-27.
+![](https://github.com/phchalco/Tarea5/blob/main/PT8.png)
 
-
-
+![](https://github.com/phchalco/Tarea5/blob/main/PT9.png)
 
 SECCIÓN 9–3 Método de la corriente en lazos.
 
-Escriba el determinante característico para las ecuaciones:
+16.Escriba el determinante característico para las ecuaciones:
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT10.png)
 
 Determine las corrientes de rama en la figura 9-28.
 
