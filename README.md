@@ -46,26 +46,31 @@ Método del voltaje en nodos
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-![](https://github.com/phchalco/Tarea4/blob/main/X1X.png)
-
-![](https://github.com/phchalco/Tarea4/blob/main/X2X.png)
-
-![](https://github.com/phchalco/Tarea4/blob/main/X3X.png)
-
-![](https://github.com/phchalco/Tarea4/blob/main/X4X.png)
-
-![](https://github.com/phchalco/Tarea4/blob/main/X5X.png)
-
 1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT1.png)
+
+![](https://github.com/phchalco/Tarea5/blob/main/PT2.png)
 
 3. Use la superposicion para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT3.png)
+
+![](https://github.com/phchalco/Tarea5/blob/main/PT4.png)
 
 5. En el circuito de la ﬁgura 9-79, ¿Cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea I L  5 mA, tal y como se muestra? Veriﬁque los resultados mediante la superposición.
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT5.png)
+
+![](https://github.com/phchalco/Tarea5/blob/main/PT6.png)
+
+![](https://github.com/phchalco/Tarea5/blob/main/PT7.png)
+
 7. Encuentre el equivalente de Thévenin externo a R, en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT8.png)
+
+![](https://github.com/phchalco/Tarea5/blob/main/PT9.png)
 
 9. Repita el problema 7 para el circuito de la figura 9-83.
 
