@@ -90,34 +90,39 @@ SECCIÓN 9–3 Método de la corriente en lazos.
 
 ![](https://github.com/phchalco/Tarea5/blob/main/PT10.png)
 
-Determine las corrientes de rama en la figura 9-28.
+18.Determine las corrientes de rama en la figura 9-28.
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT11.png)
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT12.png)
 
+20.Escriba las ecuaciones de lazo para el circuito de la figura 9-29.
 
-Escriba las ecuaciones de lazo para el circuito de la figura 9-29.
+![](https://github.com/phchalco/Tarea5/blob/main/PT13.png)
 
+22.Determine la corriente a través de cada resistor en la figura 9-29.
 
-Determine la corriente a través de cada resistor en la figura 9-29.
+![](https://github.com/phchalco/Tarea5/blob/main/PT14.png)
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT15.png)
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT16.png)
 
+24.Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT17.png)
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT18.png)
 
-Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
-
-
-
-
-
+![](https://github.com/phchalco/Tarea5/blob/main/PT19.png)
 
 SECCIÓN 9–4 Método del voltaje en nodos.
 
-En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra.
+26.En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra.
 
+![](https://github.com/phchalco/Tarea5/blob/main/PT20.png)
 
-
+![](https://github.com/phchalco/Tarea5/blob/main/PT21.png)
 
 Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo.
 
