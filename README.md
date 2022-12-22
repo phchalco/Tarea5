@@ -232,10 +232,17 @@ https://www.youtube.com/watch?v=AMgZiZknfkQ
 
 5.-Conclusiones:
 
--En relación a lo antes expuesto, se puede deducir que la relación que existe entre los circuitos en serie y paralelos abarcan una gran cantidad de definiciones que
+-En relación a lo antes expuesto, se puede deducir que la relación que existe entre las corrientes de rama y nodos abarcan una gran cantidad de definiciones que
 serán muy utilies a la hora de experimentar con estos circuitos.
 
--Finalmente, la aplicación de los distintos teoremas de circuitos eléctricos influyen significativamente en la compresión teórica de los circuitos eléctricos.
+-Finalmente, la definición de electromagnetismo es muy importante en el área de los circuitos de los circuitos eléctricos, ya que nos abre nuevas visiones sobre lo que es la electricidad y su desenvolvimiento.
 
 6.-Bibliografía:
 
+Electromagnetismo. (s. f.). Endesa. https://www.fundacionendesa.org/es/educacion/endesa-educa/recursos/que-es-el-electromagnetismo
+
+Campo Magnético - Concepto, origen, tipos y características. (s. f.). Concepto. https://concepto.de/campo-magnetico/
+
+A, A. (2021a, agosto 5). Método de corriente de rama. La fisica y quimica. https://lafisicayquimica.com/metodo-de-corriente-de-rama/
+
+M, M. (2021, 2 abril). Teorema de Nodos. MiElectrónicaFácil.com. https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-nodos/
