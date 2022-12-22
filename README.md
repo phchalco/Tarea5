@@ -46,107 +46,85 @@ Método del voltaje en nodos
 
 3.-EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.
+![](https://github.com/phchalco/Tarea5/blob/main/PT1.png)
+
+SECCIÓN 9-1 Ecuaciones simultáneas en el análisis de circuitos.
+
+2.Evalúe cada determinante:
 
 ![](https://github.com/phchalco/Tarea5/blob/main/PT1.png)
 
-![](https://github.com/phchalco/Tarea5/blob/main/PT2.png)
-
-3. Use la superposicion para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT3.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT4.png)
-
-5. En el circuito de la ﬁgura 9-79, ¿Cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea I L  5 mA, tal y como se muestra? Veriﬁque los resultados mediante la superposición.
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT5.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT6.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT7.png)
-
-7. Encuentre el equivalente de Thévenin externo a R, en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT8.png)
-
-![](https://github.com/phchalco/Tarea5/blob/main/PT9.png)
-
-9. Repita el problema 7 para el circuito de la figura 9-83.
+4.Evalúe cada uno de los determinantes:
 
 
-11. Vea el circuito de la figura 9-85:
+
+6.Determine I3 en el ejemplo 9-4.
 
 
-a. Encuentre el circuito equivalente de Thévenin externo a RL.
+
+Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
 
 
-b. Use el circuito equivalente para determinar Vab cuando RL = 20 Ω y cuando RL = 50 Ω.
+Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
 
 
-13. Vea el circuito de la figura 9-87:
+SECCIÓN 9–2 Método de la corriente en ramas.
 
-a. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas.
-
-b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas.
+Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
 
 
-15. Vea el circuito de la figura 9-89:
-
-a. Encuentre el circuito equivalente de Thevenin externo a las terminales que se indican.
-
-b. Use el circuito equivalente de Thevenin para determinar la corriente a traves de las ramas que se indican.
 
 
-17. Vea el circuito de la figura 9-91:
-
-a. Encuentre el circuito equivalente de Thévenin externo a RL
-
-b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando RL = 0, 10 kΩ y 50 kΩ.
-
-19. Repita el problema 17 para el circuito de la figura 9-93.
-
-a. Encuentre el circuito equivalente de Thévenin externo a Rp.
-
-b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando RL = 0, 10 kl y 50 kO.
+Determine la corriente a través de cada resistor mostrado en la figura 9-27.
 
 
-21. Encuentre el circuito equivalente de Thévenin de la red externa a las ramas que se indican, como se muestra en la figura 9-95.
 
 
-23. Repita el problema 22 para el circuito de la figura 9-97.
+SECCIÓN 9–3 Método de la corriente en lazos.
+
+Escriba el determinante característico para las ecuaciones:
 
 
-25. Encuentre el circuito equivalente de Norton externo a R, en el circuito de la figura 9-81. Use el circuito equivalente para encontrar para el circuito.
+Determine las corrientes de rama en la figura 9-28.
 
 
-27. Repita el problema 25 para el circuito de la figura 9-83.
-
-29. Vea el circuito de la figura 9-85:
 
 
-a. Encuentre el circuito equivalente de Norton externo a RL.
+Escriba las ecuaciones de lazo para el circuito de la figura 9-29.
 
 
-b. Use el circuito equivalente para determinar IL cuando RL= 20 kΩ y cuando RL = 50 kΩ.
-
-31. a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-87.
-
-33. Repita el problema 31 para el circuito de la figura 9-91.
-
-37. a. Para el circuito de la figura 9-91 determine el valor de Rz para que se suministre la máxima potencia a la carga.
-
-b. Calcule el valor de la máxima potencia que puede ser suministrada a la carga.
+Determine la corriente a través de cada resistor en la figura 9-29.
 
 
-39. a. Para el circuito de la figura 9-99.
 
 
-43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 1, determine la magnitud y polaridad de la fuente de voltaje resultante.
 
-49. a. Determine la corriente 1 en el circuito de la figura 9-107.
 
-b. Demuestre que la reciprocidad se aplica en el circuito dado.
+Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
+
+
+
+
+
+
+SECCIÓN 9–4 Método del voltaje en nodos.
+
+En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra.
+
+
+
+
+Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo.
+
+
+
+
+Determine el voltaje en los puntos A, B y C en la figura 9-34.
+
+
+
+
+
 
 Capítulo 10
 
