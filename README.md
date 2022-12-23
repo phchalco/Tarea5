@@ -233,9 +233,9 @@ https://www.youtube.com/watch?v=AMgZiZknfkQ
 5.-Conclusiones:
 
 -En relación a lo antes expuesto, se puede deducir que la relación que existe entre las corrientes de rama y nodos abarcan una gran cantidad de definiciones que
-serán muy utilies a la hora de experimentar con estos circuitos.
+serán muy útiles a la hora de experimentar con estos circuitos.
 
--Finalmente, la definición de electromagnetismo es muy importante en el área de los circuitos de los circuitos eléctricos, ya que nos abre nuevas visiones sobre lo que es la electricidad y su desenvolvimiento.
+-Finalmente, la definición de electromagnetismo es muy importante en el área de los circuitos eléctricos, ya que nos abre nuevas visiones sobre lo que es la electricidad y su desenvolvimiento.
 
 6.-Bibliografía:
 
