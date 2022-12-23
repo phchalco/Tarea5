@@ -228,7 +228,7 @@ SECCIÓN 10–6 Aplicaciones de la inducción electromagnética.
 
 4.-Video
 
-https://www.youtube.com/watch?v=AMgZiZknfkQ
+https://www.youtube.com/watch?v=HMbY7oa48KI
 
 5.-Conclusiones:
 
