@@ -6,7 +6,7 @@ Tema: Principios de Circuitos Eléctricos
 
 1.-Objetivos Generales: 
 
--Analizar los concepos de mallas y redes aplicados en los circuitos elécticos.
+-Analizar los conceptos de mallas y redes aplicados en los circuitos eléctricos.
 
 Objetivos 
 
